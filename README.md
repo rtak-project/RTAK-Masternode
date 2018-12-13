@@ -118,7 +118,7 @@ If you require further assistance contact the support team @ [Discord]()
 ***
 
 ***Step 10***
-* When prompted to enter your GEN key - press enter
+* When prompted to enter your GEN key - go to qt wallet console type **Masternode genkey** and paste your private key
 
 ![Example-installing](https://i.imgur.com/sLvWd1S.png)
 ***
