@@ -136,7 +136,7 @@ If you require further assistance contact the support team @ [Discord]()
 ***
 
 ***Step 2***
-* Send EXACLY 500 rtak to a receive address within your wallet.
+* Send EXACLY **1000** rtak to a receive address within your wallet.
 ***
 
 ***Step 3***
