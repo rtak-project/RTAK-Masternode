@@ -9,7 +9,7 @@ COIN_PATH='/usr/local/bin/'
 COIN_TGZ='https://github.com/rtak-project/RTAKCore/releases/download/v1.0/RTAK-Core_Ubuntu_16.tar.gz'
 COIN_ZIP=$(echo $COIN_TGZ | awk -F'/' '{print $NF}')
 COIN_NAME='rtak'
-COIN_PORT=5055522366
+COIN_PORT=50555
 RPC_PORT=22366
 
 NODEIP=$(curl -s4 api.ipify.org)
