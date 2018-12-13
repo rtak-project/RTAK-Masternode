@@ -2,7 +2,7 @@
 
 TMP_FOLDER=$(mktemp -d)
 CONFIG_FILE='rtak.conf'
-CONFIGFOLDER='/root/.RTAL'
+CONFIGFOLDER='/root/.RTAK'
 COIN_DAEMON='rtakd'
 COIN_CLI='rtak-cli'
 COIN_PATH='/usr/local/bin/'
