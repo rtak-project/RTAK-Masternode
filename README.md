@@ -101,7 +101,7 @@ If you require further assistance contact the support team @ [Discord]()
 * Paste the code below into the Bitvise terminal then press enter (it will just go to a new line)
 ![Example-RootPassEnter](https://i.imgur.com/vuDtUVj.png)
 
-`wget -N https://raw.githubusercontent.com/AstaClover/rtak/master/install.sh`
+`wget -N https://raw.githubusercontent.com/rtak-project/RTAK-Masternode/master/install.sh`
 ***
 
 ***Step 8***
