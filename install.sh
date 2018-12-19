@@ -2,11 +2,11 @@
 
 TMP_FOLDER=$(mktemp -d)
 CONFIG_FILE='rtak.conf'
-CONFIGFOLDER='/root/.RTAK'
+CONFIGFOLDER='/root/.rtak'
 COIN_DAEMON='rtakd'
 COIN_CLI='rtak-cli'
 COIN_PATH='/usr/local/bin/'
-COIN_TGZ='https://github.com/rtak-project/RTAKCore/releases/download/v1.0.0.2/RTAKd_Ubuntu_v.1.0.0.2.tar.gz '
+COIN_TGZ='https://github.com/rtak-project/RTAKCore/releases/download/v1.0.0.3/RTAK-Core_v.1.0.0.3_ubuntu.tar.gz'
 COIN_ZIP=$(echo $COIN_TGZ | awk -F'/' '{print $NF}')
 COIN_NAME='rtak'
 COIN_PORT=50555
